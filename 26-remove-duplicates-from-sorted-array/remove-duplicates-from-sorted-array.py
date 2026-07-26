@@ -1,4 +1,6 @@
 class Solution(object):
+    # this is my new streak starts from today
+    
     def removeDuplicates(self, nums):
         n=len(nums)
         if n==0:
